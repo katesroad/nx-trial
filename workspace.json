@@ -2,6 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "components": "libs/components",
     "crm": "apps/crm",
     "crm-e2e": "apps/crm-e2e",
     "feedback": "apps/feedback",

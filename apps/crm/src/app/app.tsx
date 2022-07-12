@@ -3,10 +3,13 @@ import styles from './app.module.scss';
 import NxWelcome from './nx-welcome';
 
 import { Route, Routes, Link } from 'react-router-dom';
+import { Components } from '@nx/components';
 
 export function App() {
+
   return (
     <>
+      <Components />
       <NxWelcome title="crm" />
       <div />
 
