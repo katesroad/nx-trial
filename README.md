@@ -8,4 +8,4 @@
 
 ## Alternatives
 
-earhttps://lerna.js.org/
+earhttps://lerna.js.org/: publish packages in the same repo
