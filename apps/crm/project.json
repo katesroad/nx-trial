@@ -18,7 +18,7 @@
         "assets": ["apps/crm/src/favicon.ico", "apps/crm/src/assets"],
         "styles": ["apps/crm/src/styles.scss"],
         "scripts": [],
-        "webpackConfig": "@nrwl/react/plugins/webpack"
+        "webpackConfig": "apps/crm/webpack.config.js"
       },
       "configurations": {
         "development": {
