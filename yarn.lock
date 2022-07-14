@@ -1679,7 +1679,7 @@
     webpack "^5.58.1"
     webpack-merge "^5.8.0"
 
-"@nrwl/storybook@14.4.2":
+"@nrwl/storybook@14.4.2", "@nrwl/storybook@^14.4.2":
   version "14.4.2"
   resolved "https://registry.yarnpkg.com/@nrwl/storybook/-/storybook-14.4.2.tgz#7cf295e846cb78965c66cb1ff5e362f070efd777"
   integrity sha512-G6h3jQT+pIY0RAEbeclguEFSAIXsToRVKEeRyq1bk6fWJHy7y//bCeJrINL9xPf9zk12cWyKkjJvwsOcy0Z1Mw==
