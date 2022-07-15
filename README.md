@@ -18,3 +18,4 @@ earhttps://lerna.js.org/: publish packages in the same repo
 
 1. Create sass library using nx: https://github.com/nrwl/nx/issues/1542
 2. Create backend service that proxy frontend project
+3. --directory option, to generate files under a folder
