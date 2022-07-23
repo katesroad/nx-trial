@@ -1,7 +1,7 @@
 /* Your styles goes here. */
+@use 'themes/dark/_global.scss' as darkTheme;
 @import 'global.scss';
-@import 'themes/default/_global.scss';
 
 main {
-    background-color: $danger;
+    background-color: darkTheme.$danger;
 }
