@@ -3,9 +3,9 @@
 ## Tasks
 
 1. Add shared library - DONE
-2. Setup env for production and local
-3. Interaction with delegation API service
-4. Create sass library
+2. Setup env for production and local - DONE (configured by default)
+3. Interaction with delegation API service via Nginx
+4. Create sass library - DONE
 5. package management
    - audit
    - patch
