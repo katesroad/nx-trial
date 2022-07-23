@@ -18,7 +18,10 @@
         "assets": ["apps/crm/src/favicon.ico", "apps/crm/src/assets"],
         "styles": ["apps/crm/src/styles.scss"],
         "scripts": [],
-        "webpackConfig": "apps/crm/webpack.config.js"
+        "webpackConfig": "apps/crm/webpack.config.js",
+        "stylePreprocessorOptions": {
+          "includePaths": ["libs/styles/src"]
+        }
       },
       "configurations": {
         "development": {

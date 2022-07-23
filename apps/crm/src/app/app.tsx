@@ -3,6 +3,8 @@ import NxWelcome from './nx-welcome';
 import { Button, Components } from '@nx/components';
 import Nasa from './components/Nasa';
 
+import './app.scss';
+
 export function App() {
   return (
     <main>
