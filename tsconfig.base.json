@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx/components": ["libs/components/src/index.ts"]
+      "@nx/components": ["libs/components/src/index.ts"],
+      "@nx/styles": ["libs/styles/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

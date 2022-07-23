@@ -8,6 +8,7 @@
     "crm-e2e": "apps/crm-e2e",
     "feedback": "apps/feedback",
     "feedback-e2e": "apps/feedback-e2e",
-    "server": "apps/server"
+    "server": "apps/server",
+    "styles": "libs/styles"
   }
 }
